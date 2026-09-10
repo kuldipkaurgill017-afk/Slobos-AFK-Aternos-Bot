@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "SaharaSMP.aternos.me",
-    "port": 27586,
+    "port": 58720,
     "version": "",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "123456789"
     },
     "anti-afk": {
       "enabled": true,
